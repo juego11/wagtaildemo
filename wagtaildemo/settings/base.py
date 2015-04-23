@@ -9,7 +9,7 @@ DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
-    # ('Your Name', 'your_email@example.com'),
+     ('juego', 'juego@example.com'),
 )
 
 # Default to dummy email backend. Configure dev/production/local backend
